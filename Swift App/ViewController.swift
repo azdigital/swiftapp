@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     @IBAction func buttonTapped(_ sender: AnyObject) {
         
            theLabel.text = "Hello there!"
-        print("Button tapped")
+        print("Button is tapped")
     }
     
     override func viewDidLoad() {
